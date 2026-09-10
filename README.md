@@ -12,7 +12,7 @@ static analysis, formal verification, and the security of robotic software.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="career/career-dark.svg">
-  <img alt="Career map: B.S. Computer Science (2015-2018); M.S. Software Dependability and Cybersecurity at Ca' Foscari (2018-2023) in parallel with Alpenite as Software Engineer (2019-2021) and Technical Leader (2021-2023); PhD in Computer Science (2023-now) with a visiting period at INRIA (2024), AWS Applied Scientist internships in New York (2025) and Austin (2026), and JLiSA ranked 3rd at SV-COMP 2026." src="career/career-light.svg">
+  <img alt="Career map: B.S. Information Science and Technology at Ca' Foscari (2015-2018); M.S. Computer Science, Software Dependability and Cybersecurity at Ca' Foscari (2018-2023), in parallel with Alpenite as Software Consultant & Software Engineer (2019-2021) and Technical Leader (2021-2023); PhD in Computer Science at Ca' Foscari (2023-2027), with AWS Applied Scientist internships in New York (2025) and Austin (2026)." src="career/career-light.svg">
 </picture>
 
 ### Selected publications

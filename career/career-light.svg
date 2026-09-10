@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="980" viewBox="0 0 680 980" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif' role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="932" viewBox="0 0 680 932" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif' role="img">
 <title>Career map of Giacomo Zanatta</title>
-<line x1="16" y1="20" x2="38" y2="20" stroke="#57606a" stroke-width="7" stroke-linecap="round"/>
+<line x1="16" y1="20" x2="38" y2="20" stroke="#1e3a8a" stroke-width="7" stroke-linecap="round"/>
 <text x="48" y="25" font-size="13" fill="#59636e">Giacomo</text>
-<line x1="120" y1="20" x2="142" y2="20" stroke="#0098d4" stroke-width="7" stroke-linecap="round"/>
+<line x1="120" y1="20" x2="142" y2="20" stroke="#d6457e" stroke-width="7" stroke-linecap="round"/>
 <text x="152" y="25" font-size="13" fill="#59636e">B.S.</text>
 <line x1="224" y1="20" x2="246" y2="20" stroke="#00a650" stroke-width="7" stroke-linecap="round"/>
 <text x="256" y="25" font-size="13" fill="#59636e">M.S.</text>
@@ -13,64 +13,82 @@
 <line x1="536" y1="20" x2="558" y2="20" stroke="#ff9900" stroke-width="7" stroke-linecap="round"/>
 <text x="568" y="25" font-size="13" fill="#59636e">AWS</text>
 <g transform="translate(0,64)">
-<line x1="40" y1="860" x2="40" y2="900" stroke="#57606a" stroke-width="7" stroke-linecap="round" stroke-dasharray="0 12"/>
-<line x1="72" y1="860" x2="72" y2="900" stroke="#7b3f98" stroke-width="7" stroke-linecap="round" stroke-dasharray="0 12"/>
-<path d="M40,20 L64.9,44.9 Q72,52 72.0,62.0 L72.0,82.0 Q72,92 64.9,99.1 L40,124" fill="none" stroke="#0098d4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M40,212 L64.9,236.9 Q72,244 72.0,254.0 L72.0,362.0 Q72,372 64.9,379.1 L40,404" fill="none" stroke="#e32017" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M40,140 L64.9,164.9 Q72,172 72.0,182.0 L72.0,202.0 Q72,212 79.1,219.1 L96.9,236.9 Q104,244 104.0,254.0 L104.0,362.0 Q104,372 96.9,379.1 L40,436" fill="none" stroke="#00a650" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M72,592 L96.9,616.9 Q104,624 104.0,634.0 L104.0,654.0 Q104,664 96.9,671.1 L72,696" fill="none" stroke="#ff9900" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M72,736 L96.9,760.9 Q104,768 104.0,778.0 L104.0,798.0 Q104,808 96.9,815.1 L72,840" fill="none" stroke="#ff9900" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M40,476 L64.9,500.9 Q72,508 72.0,518.0 L72,860" fill="none" stroke="#7b3f98" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M40,0 L40,860" fill="none" stroke="#57606a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="40" cy="0" r="8" fill="#ffffff" stroke="#1f2328" stroke-width="3"/>
-<text x="228" y="-1" font-size="14" font-weight="600" fill="#1f2328">Giacomo Zanatta</text>
-<text x="228" y="15" font-size="12" fill="#59636e">Treviso, Italy</text>
-<circle cx="72" cy="72" r="5.5" fill="#ffffff" stroke="#0098d4" stroke-width="3.2"/>
-<text x="140" y="71" font-size="13" font-weight="700" fill="#0098d4">2015–2018</text>
-<text x="228" y="71" font-size="14" font-weight="600" fill="#1f2328">B.S. Computer Science</text>
-<text x="228" y="87" font-size="12" fill="#59636e">Ca&#x27; Foscari University of Venice</text>
-<circle cx="72" cy="192" r="5.5" fill="#ffffff" stroke="#00a650" stroke-width="3.2"/>
-<text x="140" y="191" font-size="13" font-weight="700" fill="#00a650">2018–2023</text>
-<text x="228" y="191" font-size="14" font-weight="600" fill="#1f2328">M.S. Software Dependability &amp; Cybersecurity</text>
-<text x="228" y="207" font-size="12" fill="#59636e">Ca&#x27; Foscari University of Venice</text>
-<circle cx="72" cy="264" r="5.5" fill="#ffffff" stroke="#e32017" stroke-width="3.2"/>
-<text x="140" y="263" font-size="13" font-weight="700" fill="#e32017">2019–2021</text>
-<text x="228" y="263" font-size="14" font-weight="600" fill="#1f2328">Software Engineer</text>
-<text x="228" y="279" font-size="12" fill="#59636e">Alpenite, Venice</text>
-<circle cx="72" cy="308" r="5.5" fill="#ffffff" stroke="#e32017" stroke-width="3.2"/>
-<text x="140" y="307" font-size="13" font-weight="700" fill="#e32017">2021–2023</text>
-<text x="228" y="307" font-size="14" font-weight="600" fill="#1f2328">Technical Leader</text>
-<text x="228" y="323" font-size="12" fill="#59636e">Alpenite, led a team on luxury e-commerce</text>
-<circle cx="104" cy="352" r="5.5" fill="#ffffff" stroke="#00a650" stroke-width="3.2"/>
-<text x="140" y="351" font-size="13" font-weight="700" fill="#00a650">2023</text>
-<text x="228" y="351" font-size="14" font-weight="600" fill="#1f2328">M.S. thesis: LiSA and ROS</text>
-<text x="228" y="367" font-size="12" fill="#59636e">Static analysis for robotics</text>
-<circle cx="40" cy="456" r="8" fill="#ffffff" stroke="#1f2328" stroke-width="3"/>
-<text x="140" y="461" font-size="13" font-weight="700" fill="#1f2328">2023</text>
-<text x="228" y="461" font-size="14" font-weight="600" fill="#1f2328">From industry to research</text>
-<circle cx="72" cy="528" r="5.5" fill="#ffffff" stroke="#7b3f98" stroke-width="3.2"/>
-<text x="140" y="527" font-size="13" font-weight="700" fill="#7b3f98">2023</text>
-<text x="228" y="527" font-size="14" font-weight="600" fill="#1f2328">PhD in Computer Science</text>
-<text x="228" y="543" font-size="12" fill="#59636e">Ca&#x27; Foscari University of Venice</text>
-<circle cx="72" cy="572" r="5.5" fill="#ffffff" stroke="#7b3f98" stroke-width="3.2"/>
-<text x="140" y="571" font-size="13" font-weight="700" fill="#7b3f98">2024</text>
-<text x="228" y="571" font-size="14" font-weight="600" fill="#1f2328">Visiting Researcher</text>
-<text x="228" y="587" font-size="12" fill="#59636e">INRIA Antique, ENS Paris</text>
-<circle cx="104" cy="644" r="5.5" fill="#ffffff" stroke="#ff9900" stroke-width="3.2"/>
-<text x="140" y="643" font-size="13" font-weight="700" fill="#ff9900">2025</text>
-<text x="228" y="643" font-size="14" font-weight="600" fill="#1f2328">Applied Scientist Intern</text>
-<text x="228" y="659" font-size="12" fill="#59636e">Amazon Web Services, New York</text>
-<circle cx="72" cy="716" r="5.5" fill="#ffffff" stroke="#7b3f98" stroke-width="3.2"/>
-<text x="140" y="715" font-size="13" font-weight="700" fill="#7b3f98">2026</text>
-<text x="228" y="715" font-size="14" font-weight="600" fill="#1f2328">JLiSA ranked 3rd at SV-COMP</text>
-<text x="228" y="731" font-size="12" fill="#59636e">Java track, TACAS 2026</text>
-<circle cx="104" cy="788" r="5.5" fill="#ffffff" stroke="#ff9900" stroke-width="3.2"/>
-<text x="140" y="787" font-size="13" font-weight="700" fill="#ff9900">2026</text>
-<text x="228" y="787" font-size="14" font-weight="600" fill="#1f2328">Applied Scientist Intern</text>
-<text x="228" y="803" font-size="12" fill="#59636e">Amazon Web Services, Austin</text>
-<circle cx="72" cy="860" r="7" fill="none" stroke="#7b3f98" stroke-width="2"><animate attributeName="r" values="7;17" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2.2s" repeatCount="indefinite"/></circle>
-<circle cx="72" cy="860" r="7" fill="#7b3f98" stroke="#ffffff" stroke-width="2.5"/>
-<text x="140" y="859" font-size="13" font-weight="700" fill="#7b3f98">now</text>
-<text x="228" y="859" font-size="14" font-weight="600" fill="#1f2328">Real-time security firewall for ROS 2</text>
-<text x="228" y="875" font-size="12" fill="#59636e">PhD research</text>
+<line x1="40" y1="812" x2="40" y2="852" stroke="#1e3a8a" stroke-width="7" stroke-linecap="round" stroke-dasharray="0 12"/>
+<line x1="72" y1="812" x2="72" y2="852" stroke="#7b3f98" stroke-width="7" stroke-linecap="round" stroke-dasharray="0 12"/>
+<path d="M40,22 L64.9,46.9 Q72,54 72.0,64.0 L72.0,88.0 Q72,98 64.9,105.1 L40,130" fill="none" stroke="#d6457e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40,230 L64.9,254.9 Q72,262 72.0,272.0 L72.0,362.0 Q72,372 64.9,379.1 L40,404" fill="none" stroke="#e32017" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40,146 L64.9,170.9 Q72,178 72.0,188.0 L72.0,220.0 Q72,230 79.1,237.1 L96.9,254.9 Q104,262 104.0,272.0 L104.0,362.0 Q104,372 96.9,379.1 L40,436" fill="none" stroke="#00a650" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72,540 L96.9,564.9 Q104,572 104.0,582.0 L104.0,618.0 Q104,628 96.9,635.1 L72,660" fill="none" stroke="#ff9900" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72,676 L96.9,700.9 Q104,708 104.0,718.0 L104.0,754.0 Q104,764 96.9,771.1 L72,796" fill="none" stroke="#ff9900" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40,452 L64.9,476.9 Q72,484 72.0,494.0 L72,812" fill="none" stroke="#7b3f98" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40,0 L40,812" fill="none" stroke="#1e3a8a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="40" cy="0" r="8" fill="#ffffff" stroke="#1e3a8a" stroke-width="4"/>
+<text x="240" y="5" font-size="14" font-weight="600" fill="#1f2328">Giacomo Zanatta</text>
+<circle cx="72" cy="76" r="5.5" fill="#ffffff" stroke="#d6457e" stroke-width="3.2"/>
+<text x="140" y="73" font-size="13" font-weight="700" fill="#d6457e">2015–2018</text>
+<text x="140" y="91" font-size="12" fill="#59636e">Ca&#x27; Foscari</text>
+<text x="240" y="73" font-size="14" font-weight="600" fill="#1f2328">B.S. Information Science and Technology</text>
+<circle cx="72" cy="200" r="5.5" fill="#ffffff" stroke="#00a650" stroke-width="3.2"/>
+<text x="140" y="197" font-size="13" font-weight="700" fill="#00a650">2018–2023</text>
+<text x="140" y="215" font-size="12" fill="#59636e">Ca&#x27; Foscari</text>
+<text x="240" y="197" font-size="14" font-weight="600" fill="#1f2328">M.S. Computer Science</text>
+<text x="240" y="215" font-size="12" fill="#59636e">Software Dependability and Cybersecurity</text>
+<circle cx="72" cy="284" r="5.5" fill="#ffffff" stroke="#e32017" stroke-width="3.2"/>
+<text x="140" y="281" font-size="13" font-weight="700" fill="#e32017">2019–2021</text>
+<text x="140" y="299" font-size="12" fill="#59636e">Alpenite</text>
+<text x="240" y="281" font-size="14" font-weight="600" fill="#1f2328">Software Consultant &amp; Software Engineer</text>
+<rect x="240" y="289" width="62" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="247" y="302" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Node.js</text>
+<rect x="307.6" y="289" width="41" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="314.6" y="302" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">SFCC</text>
+<rect x="354.8" y="289" width="41" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="361.8" y="302" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">APEX</text>
+<rect x="402.0" y="289" width="55" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="409.0" y="302" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Python</text>
+<rect x="462.8" y="289" width="82" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="469.8" y="302" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">JavaScript</text>
+<rect x="550.8" y="289" width="48" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="557.8" y="302" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">CI/CD</text>
+<rect x="604.8" y="289" width="41" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="611.8" y="302" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Jira</text>
+<circle cx="72" cy="338" r="5.5" fill="#ffffff" stroke="#e32017" stroke-width="3.2"/>
+<text x="140" y="335" font-size="13" font-weight="700" fill="#e32017">2021–2023</text>
+<text x="140" y="353" font-size="12" fill="#59636e">Alpenite</text>
+<text x="240" y="335" font-size="14" font-weight="600" fill="#1f2328">Technical Leader</text>
+<rect x="240" y="343" width="55" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="247" y="356" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Golang</text>
+<rect x="300.8" y="343" width="55" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="307.8" y="356" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Heroku</text>
+<rect x="361.6" y="343" width="102" height="18" rx="4" fill="#fbe0df" stroke="#f1908b"/>
+<text x="368.6" y="356" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">microservices</text>
+<circle cx="72" cy="506" r="5.5" fill="#ffffff" stroke="#7b3f98" stroke-width="3.2"/>
+<text x="140" y="503" font-size="13" font-weight="700" fill="#7b3f98">2023–2027</text>
+<text x="140" y="521" font-size="12" fill="#59636e">Ca&#x27; Foscari</text>
+<text x="240" y="503" font-size="14" font-weight="600" fill="#1f2328">PhD in Computer Science</text>
+<rect x="240" y="511" width="150" height="18" rx="4" fill="#ede4f1" stroke="#bd9fcc"/>
+<text x="247" y="524" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">software correctness</text>
+<rect x="396.0" y="511" width="116" height="18" rx="4" fill="#ede4f1" stroke="#bd9fcc"/>
+<text x="403.0" y="524" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">static analysis</text>
+<rect x="518.0" y="511" width="41" height="18" rx="4" fill="#ede4f1" stroke="#bd9fcc"/>
+<text x="525.0" y="524" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Java</text>
+<rect x="565.2" y="511" width="55" height="18" rx="4" fill="#ede4f1" stroke="#bd9fcc"/>
+<text x="572.2" y="524" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Python</text>
+<circle cx="104" cy="594" r="5.5" fill="#ffffff" stroke="#ff9900" stroke-width="3.2"/>
+<text x="140" y="591" font-size="13" font-weight="700" fill="#ff9900">2025</text>
+<text x="140" y="609" font-size="12" fill="#59636e">AWS New York</text>
+<text x="240" y="591" font-size="14" font-weight="600" fill="#1f2328">Applied Scientist Intern</text>
+<rect x="240" y="599" width="41" height="18" rx="4" fill="#fff1db" stroke="#ffcc80"/>
+<text x="247" y="612" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Java</text>
+<rect x="287.2" y="599" width="55" height="18" rx="4" fill="#fff1db" stroke="#ffcc80"/>
+<text x="294.2" y="612" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Python</text>
+<circle cx="104" cy="730" r="5.5" fill="#ffffff" stroke="#ff9900" stroke-width="3.2"/>
+<text x="140" y="727" font-size="13" font-weight="700" fill="#ff9900">2026</text>
+<text x="140" y="745" font-size="12" fill="#59636e">AWS Austin</text>
+<text x="240" y="727" font-size="14" font-weight="600" fill="#1f2328">Applied Scientist Intern</text>
+<rect x="240" y="735" width="41" height="18" rx="4" fill="#fff1db" stroke="#ffcc80"/>
+<text x="247" y="748" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Java</text>
+<rect x="287.2" y="735" width="55" height="18" rx="4" fill="#fff1db" stroke="#ffcc80"/>
+<text x="294.2" y="748" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Python</text>
+<rect x="348.0" y="735" width="41" height="18" rx="4" fill="#fff1db" stroke="#ffcc80"/>
+<text x="355.0" y="748" font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace' font-size="11" fill="#1f2328">Lean</text>
 </g></svg>
