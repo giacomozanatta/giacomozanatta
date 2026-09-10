@@ -10,29 +10,31 @@ static analysis, formal verification, and the security of robotic software.
 
 ### Career
 
-```mermaid
-%%{init: {'gitGraph': {'mainBranchName': 'giacomo'}} }%%
-gitGraph TB:
-  commit id: "B.S. Computer Science (2018)"
-  branch msc
-  commit id: "M.S. Cybersecurity (2018)"
-  checkout giacomo
-  branch alpenite
-  commit id: "Software Engineer (2019)"
-  commit id: "Technical Leader (2021)"
-  checkout msc
-  commit id: "Thesis: static analysis for ROS (2023)"
-  checkout giacomo
-  merge msc id: "M.S. completed (2023)"
-  merge alpenite id: "Alpenite completed (2023)"
-  branch phd
-  commit id: "PhD, Ca' Foscari (2023)"
-  branch aws-nyc
-  commit id: "Applied Scientist Intern, New York (2025)"
-  checkout phd
-  commit id: "JLiSA 3rd at SV-COMP (2026)"
-  branch aws-austin
-  commit id: "Applied Scientist Intern, Austin (2026)"
+```text
+*       giacomo
+|\
+| *     B.S. Computer Science, Ca' Foscari University         2015-2018
+|/
+|\
+| *     M.S. Software Dependability & Cybersecurity           2018-2023
+|\ \
+| * |   Software Engineer, Alpenite                           2019-2021
+| * |   Technical Leader, Alpenite                            2021-2023
+| | *   Thesis: LiSA and ROS, static analysis for robotics         2023
+|/ /
+|/
+*       Graduated, moved from industry to research                 2023
+|\
+| *     PhD in Computer Science, Ca' Foscari University            2023
+| *     Visiting Researcher, INRIA Antique, ENS Paris              2024
+| |\
+| | *   Applied Scientist Intern, AWS New York                     2025
+| |/
+| *     JLiSA ranked 3rd at SV-COMP 2026, Java track               2026
+| |\
+| | *   Applied Scientist Intern, AWS Austin                       2026
+| |/
+| *     (HEAD -> phd) Real-time security firewall for ROS 2         now
 ```
 
 ### Selected publications
