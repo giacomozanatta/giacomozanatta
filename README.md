@@ -10,32 +10,10 @@ static analysis, formal verification, and the security of robotic software.
 
 ### Career
 
-```text
-*       giacomo
-|\
-| *     B.S. Computer Science, Ca' Foscari University         2015-2018
-|/
-|\
-| *     M.S. Software Dependability & Cybersecurity           2018-2023
-|\ \
-| * |   Software Engineer, Alpenite                           2019-2021
-| * |   Technical Leader, Alpenite                            2021-2023
-| | *   Thesis: LiSA and ROS, static analysis for robotics         2023
-|/ /
-|/
-*       Graduated, moved from industry to research                 2023
-|\
-| *     PhD in Computer Science, Ca' Foscari University            2023
-| *     Visiting Researcher, INRIA Antique, ENS Paris              2024
-| |\
-| | *   Applied Scientist Intern, AWS New York                     2025
-| |/
-| *     JLiSA ranked 3rd at SV-COMP 2026, Java track               2026
-| |\
-| | *   Applied Scientist Intern, AWS Austin                       2026
-| |/
-| *     (HEAD -> phd) Real-time security firewall for ROS 2         now
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="career/career-dark.svg">
+  <img alt="Career map: B.S. Computer Science (2015-2018); M.S. Software Dependability and Cybersecurity at Ca' Foscari (2018-2023) in parallel with Alpenite as Software Engineer (2019-2021) and Technical Leader (2021-2023); PhD in Computer Science (2023-now) with a visiting period at INRIA (2024), AWS Applied Scientist internships in New York (2025) and Austin (2026), and JLiSA ranked 3rd at SV-COMP 2026." src="career/career-light.svg">
+</picture>
 
 ### Selected publications
 
