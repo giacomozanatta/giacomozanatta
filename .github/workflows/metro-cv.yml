@@ -1,0 +1,25 @@
+name: metro-cv
+
+on:
+  push:
+    branches: [main]
+    paths: [metro-cv.yml, .github/workflows/metro-cv.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One run at a time: two quick edits must not race to push.
+concurrency:
+  group: metro-cv
+  cancel-in-progress: false
+
+jobs:
+  map:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: giacomozanatta/metro-cv@v1
+        with:
+          output-dir: career
+          commit: true

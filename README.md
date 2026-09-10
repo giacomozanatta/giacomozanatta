@@ -11,9 +11,11 @@ static analysis, formal verification, and the security of robotic software.
 ### Career
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="career/career-dark.svg">
-  <img alt="Career map: B.S. Information Science and Technology at Ca' Foscari (2015-2018); M.S. Computer Science, Software Dependability and Cybersecurity at Ca' Foscari (2018-2023), in parallel with Alpenite as Software Consultant & Software Engineer (2019-2021) and Technical Leader (2021-2023); PhD in Computer Science at Ca' Foscari (2023-2027), with AWS Applied Scientist internships in New York (2025) and Austin (2026)." src="career/career-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="career/metro-cv-dark.svg">
+  <img alt="Career map: B.S. Information Science and Technology at Ca' Foscari (2015-2018); M.S. Computer Science, Software Dependability and Cybersecurity at Ca' Foscari (2018-2023), in parallel with Alpenite as Software Consultant & Software Engineer (2019-2021) and Technical Leader (2021-2023); PhD in Computer Science at Ca' Foscari (2023-2027), with AWS Applied Scientist internships in New York (2025) and Austin (2026)." src="career/metro-cv-light.svg">
 </picture>
+
+<sub>Made with [metro-cv](https://github.com/giacomozanatta/metro-cv) · [GitHub Action](https://github.com/marketplace/actions/metro-map-cv)</sub>
 
 ### Selected publications
 
